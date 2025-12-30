@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://6537917c37a6190e4e0732e2--startling-gaufre-579edb.netlify.app/" target="_blank">
+  <a href="https://ubaid-dev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ubaid-ur-rehman-3b4886254/" target="_blank">
