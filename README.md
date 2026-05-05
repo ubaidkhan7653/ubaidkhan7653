@@ -1,4 +1,3 @@
-![Profile views counter](https://komarev.com/ghpvc/?username=ubaidkhan7653&style=flat-square)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/ubaidkhan7653?label=Follow&style=social)](https://github.com/ubaidkhan7653)&nbsp;
 
 <h2 align="center">
